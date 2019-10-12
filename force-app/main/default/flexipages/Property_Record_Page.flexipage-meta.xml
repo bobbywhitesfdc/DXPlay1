@@ -6,10 +6,6 @@
                 <name>collapsed</name>
                 <value>false</value>
             </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>hideChatterActions</name>
-                <value>false</value>
-            </componentInstanceProperties>
             <componentName>force:highlightsPanel</componentName>
         </componentInstances>
         <mode>Replace</mode>
